@@ -1,0 +1,77 @@
+Orbit Design Template
+3/24/17 by Josh Powlison, creator of Orbit
+
+Hey yo! Orbit's in the public domain, so it's not like these are RULES or anything. But if you want your Orbit comics to look just like the originals, I recommend reading on!
+
+I really recommend just duplicating an existing Orbit comic and starting from the duplicate. That way you have most of the stuff down already! (NOTE: I recommend duplicating a later comic. The earlier ones were set up a little differently)
+
+-----SOFTWARE-----
+I used Inkscape to make all of the Orbit comics. It's free, open-source, and I like it. Adobe Illustrator would also work but you gotta have the monies for that.
+
+-----EXPORTING-----
+Once I build Orbit strips in Inkscape, I export them to PNG and use GIMP to convert those PNGs to JPGs. Then I convert those JPGs into laughs!... or something.
+
+Depending on the website you post your Orbit strips on, you may have to export one panel at a time (to work within maximum size requirements). I recommend selecting the panel, then selecting the space beneath it, exporting that, and continuing like so, then converting it in GIMP.
+
+However you do it, I'll admit, it's not the most straightforward. Fortunately, you are a wise and dapper chap and I believe in you.
+
+If you have a fancy website where you can post SVG, I strongly recommend taking the following steps:
+-Converting all text and shapes into paths
+-Using SVG Cleaner (if you can find a good download) to clean up the SVG
+
+SVGS look good no matter the resolution and are teeny-tiny, so they're frankly pretty boss. You can actually go back into some of the old Orbit comics and read some of the tiny text throughout too if you want!
+
+-----EYELIDS-----
+I create the orbs' eyelids by making shapes that cover the space I want to delete. Then I use the pathfinder difference to remove the eyelids. It's worked great for me! (I usally make one shape for each eyelid, copy-paste it in place, and difference each eyelid individually)
+
+-----GRADIENTS-----
+Gradients are generally centered in the top-left of their element. For example, if you are setting the center of the gradient for a character's eye, it will go in the top-left of the eye.
+
+Even if the eye is slightly closed, the gradient will be centered not where the top-left would be if the eye were open, but where it is now as it is closed. (so directly below the eyelid on the left side)
+
+There is no hard-and-fast rule about the lightness and darkness of the gradients. Some orbs' eyes go from a bright color to black; some are from black to white; some can be a different color than their body. You decide! The tradition, though, is that their eyes are the same color as their body but brighter, going to a darker version of that color further away from the gradient's origin.
+
+-----LINE THICKNESS-----
+The general thickness of lines is .170px.
+
+-----TEXT-----
+The font is sans-serif. Sans-serif is an extremely professional font that is totally not just a default font that I stuck with.
+
+Normal text size is 1.9438675. If you want to change the world, you can round that up to 2 I guess.
+
+Small text size is 1.24334469. I guess you could go nuts and change that to 1.25.
+
+Teeny text size, like for the credits, is 0.76295346. I guess you could make that 0.75 if you wanted.
+
+But rounding is for squares. And this is Orbit. They're orbs. *high fives self
+
+-----PANELS-----
+Panels have a height of 10mm and a width of 10mm. In other words, they are squares! Squares are polygons with four sides. But you probably already knew that.
+
+The space between each panel is 0.5mm. It's just empty white space, although sometimes I'll put a white rectangle in there so it's easier to export panels with the gutters. Up to you! Depending on the website you post Orbit on though, you might want the gutters to be empty instead of having white rectangles (for example, if there's a colored background behind the posted Orbit comic).
+
+-----COPY-PASTING-----
+Feel free to copy-paste orbs from wherever to wherever. If I didn't want you to, I wouldn't have provided the files!
+
+-----COLOR-----
+You can either go color or grayscale. Because of the nature of the orbs' eyes, there's never been a comic in straight black and white. If you want it to look like an Orbit comic, you gotta always have at least the gradients in the eyes.
+
+-----ORBIT'S LORE-----
+I basically made everything up on the fly. You can follow the original strips' characters and such if you want, or throw it all away and make your own!
+
+-----CREDITING ME-----
+You don't have to credit me because Orbit's in the public domain. But it would be pretty cool if you did!
+
+If you like, you can say the following in your strip in small text on the side: "Based on a series by Josh Powlison". You can tweak that text if you want. You can definitely take full credit for your own work on the strip!
+
+-----LICENSE-----
+The base of Orbit- all the strips that I made- are in the public domain. Your Orbit strips do not have to be and you can even make money off them without ever asking for any type of permission ever.
+
+You can post a new Orbit comic series on a website Orbit's already posted on, or whatever! If you do anything more with Orbit, I'd love to know about it, so please contact me! (joshuapowlison@gmail.com)
+
+You can even make merchandise off the Orbit comics if you want and sell it; like maybe get a baby goat washable tattoo for your forehead. Yeah, that would be pretty sweet.
+
+-----ANY OTHER QUESTIONS?-----
+Spam me- I mean email me at joshuapowlison@gmail.com!
+
+No, I won't give you my phone number, you stalker!
